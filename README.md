@@ -38,7 +38,8 @@
 ---
 
 <div align="center">
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/nextjs-original.svg" alt="PHP" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/react-original.svg" alt="PHP" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="40" width="40"/>
@@ -56,10 +57,6 @@
   <div>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkafanda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div>
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkafanda)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 </div>
