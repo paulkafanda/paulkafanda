@@ -10,7 +10,7 @@
   
   <br>
 <!--  view number  -->
-  <img src="https://komarev.com/ghpvc/?username=paulkaf84&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=paulkafanda&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!-- gif salut -->
@@ -50,16 +50,22 @@
 <div align="center">
   <div>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkaf84&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkafanda&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
   </div>
   <div>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkaf84&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkafanda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <div>
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkaf84)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkafanda)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 </div>
+  
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulkafanda/paulkafanda/output/github-snake-dark.svg"/>
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulkafanda/paulkafanda/output/github-snake-dark.svg"/>
+ <img alt="github-snake" src="https://raw.githubusercontent.com/paulkafanda/paulkafanda/output/github-snake-dark.svg"/>
+</picture>
